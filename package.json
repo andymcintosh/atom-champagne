@@ -1,0 +1,11 @@
+{
+  "name": "champagne",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A bright theme based on some colors I found on Github's highlight theme",
+  "repository": "https://github.com/andymcintosh/champagne",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
